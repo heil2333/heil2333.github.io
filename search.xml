@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>Blender2.8</title>
-    <url>/blog/2020/08/26/blender2-8/</url>
+    <url>/2020/08/26/blender2-8/</url>
     <content><![CDATA[<h1 id="部署-blender"><a href="#部署-blender" class="headerlink" title="部署 blender"></a>部署 blender</h1><p>在Steam平台上或 <a href="https://www.blendercn.org/download" target="_blank" rel="noopener">官方网站</a>下载。</p>
 <p>跳过安装过程打开 blender 进行下列设置。</p>
 <a id="more"></a>
@@ -20,7 +20,7 @@
   </entry>
   <entry>
     <title>这篇文章用来测试ο（=•ω＜=）ρ⌒☆</title>
-    <url>/blog/2020/02/03/hello2/</url>
+    <url>/2020/02/03/hello2/</url>
     <content><![CDATA[<h1 id="为什么选用Github？"><a href="#为什么选用Github？" class="headerlink" title="为什么选用Github？"></a>为什么选用Github？</h1><p>把Github推荐给你学习。</p>
 <a id="more"></a>
 <h2 id="建站"><a href="#建站" class="headerlink" title="建站"></a>建站</h2><p>依赖 <a href="https://github.com/" target="_blank" rel="noopener">Github</a> 和 <a href="https://gitee.com/" target="_blank" rel="noopener">Gitee</a> 仓库。<br>部署<a href="https://nodejs.org/zh-cn/" target="_blank" rel="noopener">node.js</a><br>推送<a href="https://git-scm.com/" target="_blank" rel="noopener">git</a><br>驱动<a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a><br>主题<a href="https://theme-next.org/" target="_blank" rel="noopener">NexT.Gemini</a><br>统计<a href="https://tongji.baidu.com/web/welcome/login" target="_blank" rel="noopener">百度统计</a></p>
@@ -164,7 +164,7 @@
   </entry>
   <entry>
     <title>书签0w0</title>
-    <url>/blog/2020/02/02/hello3/</url>
+    <url>/2020/02/02/hello3/</url>
     <content><![CDATA[<h2 id="在这里分享我的发现"><a href="#在这里分享我的发现" class="headerlink" title="在这里分享我的发现"></a>在这里分享我的发现</h2><blockquote>
 <p>实用网站  </p>
 </blockquote>
@@ -246,13 +246,13 @@
   </entry>
   <entry>
     <title>这是我创建的博客，欢迎您的访问！</title>
-    <url>/blog/2020/08/26/hello-diaspora/</url>
+    <url>/2020/08/26/hello-diaspora/</url>
     <content><![CDATA[<h1 id="害！我是小飞。"><a href="#害！我是小飞。" class="headerlink" title="害！我是小飞。"></a>害！我是小飞。</h1><p>来都来了，随便看看吧！<br>更新于2020.8.26<br>当前文章数量不够，先不创建分类了。<br>下次计划更新：<code>正则表达式</code></p>
 <a id="more"></a>]]></content>
   </entry>
   <entry>
     <title>HTML5</title>
-    <url>/blog/2020/02/23/html5/</url>
+    <url>/2020/02/23/html5/</url>
     <content><![CDATA[<h1 id="HTML-网页结构"><a href="#HTML-网页结构" class="headerlink" title="HTML 网页结构"></a>HTML 网页结构</h1><p>示例项目</p>
 <figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">html</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">head</span>&gt;</span></span><br><span class="line">        <span class="tag">&lt;<span class="name">title</span>&gt;</span>页面标题<span class="tag">&lt;/<span class="name">title</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;/<span class="name">head</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">body</span>&gt;</span></span><br><span class="line">        <span class="tag">&lt;<span class="name">h1</span>&gt;</span>这是一个标题<span class="tag">&lt;/<span class="name">h1</span>&gt;</span></span><br><span class="line">        <span class="tag">&lt;<span class="name">p</span>&gt;</span>这是一个段落<span class="tag">&lt;/<span class="name">p</span>&gt;</span></span><br><span class="line">        <span class="tag">&lt;<span class="name">p</span>&gt;</span>这是另一个段落<span class="tag">&lt;/<span class="name">p</span>&gt;</span></span><br><span class="line">        <span class="tag">&lt;<span class="name">a</span> <span class="attr">href</span> =<span class="string">"https://baidu.com"</span>&gt;</span>这是一个百度链接<span class="tag">&lt;/<span class="name">a</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;/<span class="name">body</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">html</span>&gt;</span></span><br></pre></td></tr></table></figure>
 
@@ -294,7 +294,7 @@
   </entry>
   <entry>
     <title>Synology-Minecraft开服</title>
-    <url>/blog/2020/08/26/minecraftserver/</url>
+    <url>/2020/08/26/minecraftserver/</url>
     <content><![CDATA[<h1 id="Synology-Minecraft开服"><a href="#Synology-Minecraft开服" class="headerlink" title="Synology-Minecraft开服"></a>Synology-Minecraft开服</h1><h2 id="服务器信息"><a href="#服务器信息" class="headerlink" title="服务器信息"></a>服务器信息</h2><p>Minecraft对服务器的要求：<br>CPU：2+  </p>
 <table>
 <thead>
@@ -424,7 +424,7 @@
   </entry>
   <entry>
     <title>Python学习文档</title>
-    <url>/blog/2020/02/13/newblog/</url>
+    <url>/2020/02/13/newblog/</url>
     <content><![CDATA[<h1 id="我记不住的Python"><a href="#我记不住的Python" class="headerlink" title="我记不住的Python"></a>我记不住的Python</h1><h2 id="import-os"><a href="#import-os" class="headerlink" title="import os"></a>import os</h2><blockquote>
 <p>getcwd 获取当前 Python 程序运行路径  </p>
 </blockquote>
